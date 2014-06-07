@@ -1,0 +1,13 @@
+{
+    "name": "staruml.HelloWorld",
+    "title": "HelloWorld extension",
+    "description": "HelloWorld extension example.",
+    "homepage": "https://github.com/staruml/HelloWorld",
+    "version": "0.9.0",
+    "keywords": ["example", "helloworld"],
+    "author": "StarUML Team <support@staruml.io> (http://github.com/staruml)",
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}
