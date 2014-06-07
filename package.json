@@ -1,5 +1,5 @@
 {
-    "name": "staruml.HelloWorld",
+    "name": "staruml.hello-world",
     "title": "HelloWorld extension",
     "description": "HelloWorld extension example.",
     "homepage": "https://github.com/staruml/HelloWorld",
