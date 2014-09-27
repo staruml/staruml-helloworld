@@ -3,7 +3,7 @@
     "title": "HelloWorld",
     "description": "HelloWorld extension example.",
     "homepage": "https://github.com/staruml/HelloWorld",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "keywords": ["example", "helloworld"],
     "author": {
         "name": "Minkyu Lee",
