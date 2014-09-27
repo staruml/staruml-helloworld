@@ -24,6 +24,6 @@
 define(function (require, exports, module) {
     "use strict";
 
-    console.log("update installed.");
+    console.log("0.9.0 installed.");
 
 });
