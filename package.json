@@ -2,8 +2,8 @@
     "name": "your_id.helloworld",
     "title": "HelloWorld",
     "description": "HelloWorld extension example.",
-    "homepage": "https://github.com/staruml/HelloWorld",
-    "version": "0.9.2",
+    "homepage": "https://github.com/staruml/staruml-helloworld",
+    "version": "2.0.0",
     "keywords": ["example", "helloworld"],
     "author": {
         "name": "Minkyu Lee",
@@ -12,6 +12,6 @@
     },
     "license": "MIT",
     "engines": {
-        "staruml": ">=2.0.0"
+        "staruml": ">=3.0.0"
     }
 }
