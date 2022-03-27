@@ -1,17 +1,20 @@
 {
-    "name": "your_id.helloworld",
-    "title": "HelloWorld",
-    "description": "HelloWorld extension example.",
-    "homepage": "https://github.com/staruml/HelloWorld",
-    "version": "0.9.2",
-    "keywords": ["example", "helloworld"],
-    "author": {
-        "name": "Minkyu Lee",
-        "email": "niklaus.lee@gmail.com",
-        "url": "https://github.com/niklauslee"
-    },
-    "license": "MIT",
-    "engines": {
-        "staruml": ">=2.0.0"
-    }
+  "name": "your_id.helloworld",
+  "title": "HelloWorld",
+  "description": "HelloWorld extension example.",
+  "homepage": "https://github.com/staruml/HelloWorld",
+  "version": "1.0.0",
+  "keywords": [
+    "example",
+    "helloworld"
+  ],
+  "author": {
+    "name": "Minkyu Lee",
+    "email": "niklaus.lee@gmail.com",
+    "url": "https://github.com/niklauslee"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=3.0.0"
+  }
 }

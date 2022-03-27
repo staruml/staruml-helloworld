@@ -1,4 +1,3 @@
-HelloWorld extension
-====================
+# HelloWorld extension
 
-A HelloWorld extension example for StarUML 2.
+A HelloWorld extension example for StarUML.
