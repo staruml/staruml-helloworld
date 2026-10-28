@@ -3,7 +3,7 @@
   "title": "HelloWorld",
   "description": "HelloWorld extension example.",
   "homepage": "https://github.com/staruml/HelloWorld",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "keywords": [
     "example",
     "helloworld"
@@ -15,6 +15,6 @@
   },
   "license": "MIT",
   "engines": {
-    "staruml": ">=3.0.0"
+    "staruml": ">=8.0.0"
   }
 }
